@@ -7,7 +7,7 @@ This code example demonstrates simple UART communication by printing the "Hello 
 
 [Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMjE3NzMiLCJTcGVjIE51bWJlciI6IjAwMi0yMTc3MyIsIkRvYyBUaXRsZSI6IlBTb0MmdHJhZGU7IDYgTUNVOiBIZWxsbyB3b3JsZCIsInJpZCI6ImFydmkiLCJEb2MgdmVyc2lvbiI6IjMuMC4wIiwiRG9jIExhbmd1YWdlIjoiRW5nbGlzaCIsIkRvYyBEaXZpc2lvbiI6Ik1DRCIsIkRvYyBCVSI6IklDVyIsIkRvYyBGYW1pbHkiOiJQU09DIn0=)
 
-[Try the code on Infineon DevSpaces.<img src="https://www.infineon.com/frontend/release_2022-07/dist/resources/img/logo-desktop-en.png">](https://codeready-openshift-workspaces.apps.ifx-emb-world.uxzq.p1.openshiftapps.com/dashboard/#/load-factory/?url=https://raw.githubusercontent.com/srivshu944/MTB_CodeReady_Workspaces/main/mtb-example-psoc6-hello-world.yaml)
+[Try the code on Infineon DevSpaces.<img src="https://www.infineon.com/frontend/release_2022-07/dist/resources/img/logo-desktop-en.png">](https://codeready-workspaces.icp.infineon.com/dashboard/#/ide/srivastavash/micro-speech-exampled39u)
 
 ## Requirements
 
